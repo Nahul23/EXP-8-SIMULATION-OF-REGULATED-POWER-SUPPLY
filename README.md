@@ -32,6 +32,7 @@ Procedure
 •	Load voltage 
 ________________________________________
 Observation
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/fc81a83d-6bd1-4f4d-92a4-b0542e97e282" />
 
 
 
